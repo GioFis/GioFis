@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GioFis
-- 👀 I’m interested in ... Bioiniformatics, Data Analysis, Biochemistry, green Biotechnology
-- 🌱 I’m currently learning ... Phyton online, M.Sc in biotech at Uni
-- 💞️ I’m looking to collaborate on ... BioPhyton
+- 👀 I’m interested in ... Bioinformatics, Data Analysis, Biochemistry, green Biotechnology
+- 🌱 I’m currently learning ... Python online 
+- 💞️ I’m looking to collaborate on ... BioPython
 - 📫 How to reach me ... giovannifiscon@yahoo.it or giovannifiscon@gmail.com
 
 <!---
