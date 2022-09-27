@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GioFis
 - 👀 I’m interested in ... Bioinformatics, Data Analysis, Biochemistry, green Biotechnology
 - 🌱 I’m currently learning ... Python, SQL
-- 💞️ I’m looking to collaborate on ... Data analysis of data of any kind, especially biological-related data 
+- 💞️ I’m looking to collaborate on ... Data analysis, especially biological-related data 
 - 📫 How to reach me ... giovannifiscon@yahoo.it or giovannifiscon@gmail.com
 
 <!---
