@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @GioFis
-- 👀 I’m interested in ... Data Science, protein docking, green Biotechnology and IoT.
-- 🌱 I’m currently learning ... Python, SQL, Rstudio, Azure Cloud Services, 
-- 💞️ I’m looking to collaborate on ... Data analysis, especially biological-related data 
-- 📫 How to reach me ... giovannifiscon@yahoo.it or giovannifiscon@gmail.com
-
+- 👋 Hi, I'm Giovanni — IT Consultant & Cloud Engineer based in Milan, Italy
+- ☁️ Azure Certified | Building toward multi-cloud (Azure + AWS) | Microsoft stack (.NET / C#)
+- 🌱 Currently deepening: AWS Solutions Architect | Python for cloud automation | Azure DevOps
+- 🧬 Background in bioinformatics & computational biology — open to collaborate on data pipelines, protein docking workflows, and green biotech data analysis
+- 💞️ Open to collaborate on: cloud infrastructure projects, C# / .NET backends, or data pipelines
+- 📫 Reach me: giovannifiscon@gmail.com
 <!---
 GioFis/GioFis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
