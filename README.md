@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Giovanni — IT Consultant & Cloud Engineer based in Milan, Italy
 - ☁️ Azure Certified | Building toward multi-cloud (Azure + AWS) | Microsoft stack (.NET / C#)
 - 🌱 Currently deepening: AWS Solutions Architect | Python for cloud automation | Azure DevOps
-- 🧬 Background in bioinformatics & computational biology — open to collaborate on data pipelines, protein docking workflows, and green biotech data analysis
+- 🧬 Bioinformatics background | Open to collaborate on biological data analysis & protein docking
 - 💞️ Open to collaborate on: cloud infrastructure projects, C# / .NET backends, or data pipelines
 - 📫 Reach me: giovannifiscon@gmail.com
 <!---
